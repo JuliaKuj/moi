@@ -2,3 +2,5 @@ maitoa
 kaurahiutaleita
 mansikkakeittoa
 suklaata
+muroja
+vessapaperia
